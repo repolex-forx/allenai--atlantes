@@ -1,0 +1,7 @@
+[2026-11-07T19:19:24Z] === AST ITERATION 1 START | repo=allenai/atlantes sha=7258902e ===
+[2026-11-07T19:19:24Z] [iter=1] PHASE START: ast repo=allenai/atlantes sha=7258902e
+[2026-11-07T19:19:24Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T19:20:31Z] [iter=1] AST chunks built count=1 triples=906896
+[2026-11-07T19:20:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7258902ee64123439cfa1db59aa1cf520fdf761a/.complete
+[2026-11-07T19:20:31Z] [iter=1] PHASE END: ast elapsed_s=67 elapsed_min=1.1
+[2026-11-07T19:20:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

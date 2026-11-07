@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/atlantes/commit/7258902ee64123439cfa1db59aa1cf520fdf761a",
       "git:hexsha": "7258902ee64123439cfa1db59aa1cf520fdf761a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/atlantes/commit/feee99bff995967eccfca7e4a41392e372cea66a",
